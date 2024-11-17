@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+sweetviz
+optuna
+lightgbm
+xgboost
+scikit-learn
+tensorflow
+joblib
+textblob
+wordcloud
+nltk
+emoji
